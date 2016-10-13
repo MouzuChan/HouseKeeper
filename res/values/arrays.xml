@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ctype">
+      	<item>少先队员证书</item>
+      	<item>团员证</item>
+        <item>身份证</item>
+        <item>毕业证</item>
+        <item>光棍证</item>
+        <item>结婚证</item>
+        <item>其它。。</item>
+  </string-array>  
+</resources>
